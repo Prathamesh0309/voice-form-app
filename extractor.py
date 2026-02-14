@@ -1,7 +1,4 @@
-import sounddevice as sd
-from scipy.io.wavfile import write
 import re
-from datetime import datetime
 
 
 AUDIO_FILE = "meeting.wav"
